@@ -1,0 +1,6 @@
+<input type="text" name="CheckinDate" id="CheckinDate" onfocus="showCalendarControl(this);" value="<?php echo $checkindate;?>"/>
+
+
+
+<link href="calendar/calendar.css" rel="stylesheet" type="text/css">
+<script src="calendar/calendar.js" language="javascript"></script>
